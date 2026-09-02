@@ -13,8 +13,7 @@ simple_list: true # for whatsnext section
 This section contains information you should know before contributing new
 content.
 
-There are also dedicated pages about submitting [case studies](/docs/contribute/new-content/case-studies)
-and [blog articles](/docs/contribute/blog/).
+There is also a dedicated page about submitting [blog articles](/docs/contribute/blog/).
 
 <!-- body -->
 
