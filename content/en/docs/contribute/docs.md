@@ -194,7 +194,6 @@ SIG Docs communicates with different methods:
 - Visit the contributor site to learn more about [Kubernetes Contributors](https://www.kubernetes.dev/)
   and [additional contributor resources](https://www.kubernetes.dev/resources/).
 - Learn how to [contribute to the official blogs](/docs/contribute/blog/)
-- Submit a [case study](/docs/contribute/new-content/case-studies/)
 
 ## Next steps
 
